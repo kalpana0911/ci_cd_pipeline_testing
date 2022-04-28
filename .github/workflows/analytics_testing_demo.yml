@@ -1,10 +1,10 @@
-name: analytics_components_demo
+name: analytics_testing_demo
 
 # Controls when the action will run. 
 on:
   push:
     branches:
-      - analytics_components
+      - analytics_testing
     paths:
       - 'migrations/**'
 
