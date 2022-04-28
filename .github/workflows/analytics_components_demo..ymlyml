@@ -1,4 +1,4 @@
-name: analytics_components
+name: analytics_components_demo
 
 # Controls when the action will run. 
 on:
